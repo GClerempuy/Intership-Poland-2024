@@ -1,0 +1,769 @@
+Name,Sequence Name,Minimum,Maximum,Length,Direction
+(-)psbA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,59,391,333,forward
+(-)psbA-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,4399,4563,165,reverse
+16s gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16384,16954,571,forward
+16S rRNA | rrsA-A | rrsA-B gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16379,16590,212,forward
+16S rRNA | rrsA-A | rrsA-B gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3999,4210,212,forward
+16S rRNA-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16764,16960,197,forward
+16S rRNA-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16974,17122,149,forward
+16S rRNA-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4384,4580,197,forward
+16S rRNA-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4594,4742,149,forward
+16S | rrs gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4004,4573,570,forward
+16s-fragment | 16SrRNA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17399,17555,157,forward
+16S-rRNA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16380,16591,212,forward
+16S-rRNA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4000,4211,212,forward
+16SrRNA-fragment | rrn23S gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5019,5175,157,forward
+23rrn | 23S rRNA | 23S gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20313,20686,374,forward
+23rrn | rrn23s; rrn23 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5886,5979,94,forward
+23S gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,7109,7213,105,forward
+23S rRNA | 23SrRNA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6193,6346,154,forward
+23S-rRNA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18640,18762,123,forward
+23S-rRNA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6224,6346,123,forward
+23SrRNA | rrn23S rRNA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18609,18762,154,forward
+acpP gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,73518,73916,399,reverse
+acpP gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,100039,100437,399,forward
+acsF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,32546,33604,1059,reverse
+acsF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,140351,141409,1059,forward
+acsF gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,9725,10783,1059,reverse
+aptA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,60358,61611,1254,forward
+aptA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,112345,113598,1254,reverse
+atpA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,60274,61761,1488,forward
+atpA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,112194,113681,1488,reverse
+atpB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,43596,45011,1416,reverse
+atpB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,128944,130359,1416,forward
+atpB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,20775,22190,1416,reverse
+atpE gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,13871,14128,258,reverse
+atpF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,59129,59653,525,forward
+atpF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,114302,114826,525,reverse
+atpG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,58639,59076,438,forward
+atpG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,114879,115316,438,reverse
+atpH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,58173,58424,252,forward
+atpH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,115531,115782,252,reverse
+atpI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,57359,58066,708,forward
+atpI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,115889,116596,708,reverse
+atpl gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,57494,58054,561,forward
+atpl gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,115901,116461,561,reverse
+cbbL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,38980,40005,1026,reverse
+cbbL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,133950,134975,1026,forward
+cbbL gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,16159,17184,1026,reverse
+cbbX gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,37280,38212,933,reverse
+cbbX gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,135743,136675,933,forward
+cbbX gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,14459,15391,933,reverse
+ccs1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,7136,8389,1254,forward
+ccs1' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,7769,7933,165,forward
+ccs1'-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,7583,7729,147,forward
+ccs1.2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,3231,3729,499,forward
+ccs1A gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,3000,3602,603,forward
+ccsA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,3565,3723,159,forward
+ccsA' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,3010,3724,715,forward
+cfxQ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,37568,38125,558,reverse
+cfxQ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,135830,136387,558,forward
+cfxQ gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,14747,15304,558,reverse
+chlI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,9100,10083,984,reverse
+chlI-2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,9127,10035,909,reverse
+chlL | bchI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,9127,10068,942,reverse
+clcP gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,68616,71291,2676,forward
+clcP gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102664,105339,2676,reverse
+clpB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,68526,71132,2607,forward
+clpB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102823,105429,2607,reverse
+clpC B gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,70230,71108,879,forward
+clpC B gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102847,103725,879,reverse
+clpC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,68493,71322,2830,forward
+clpC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102633,105462,2830,reverse
+clpC' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,68562,71291,2730,forward
+clpC' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102664,105393,2730,reverse
+clpC-I gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,70485,71108,624,forward
+clpC-I gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102847,103470,624,reverse
+clpC-II | clpC A gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,68535,69221,687,forward
+clpC-II | clpC A gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,104734,105420,687,reverse
+clpN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,41592,41954,363,reverse
+clpN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132001,132363,363,forward
+clpN gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18771,19133,363,reverse
+cp43 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,12118,13538,1421,reverse
+cp43 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1109,2529,1421,reverse
+cp43 | psbC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,1475,2896,1422,forward
+cp47 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,75473,77002,1530,forward
+cp47 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96953,98482,1530,reverse
+cssA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,3337,3603,267,forward
+dnaB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,11702,11770,69,forward
+dnaK gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,3551,5194,1644,reverse
+fstH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,78360,79853,1494,forward
+fstH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,94102,95595,1494,reverse
+ftrB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,83357,83653,297,reverse
+ftrB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,90302,90598,297,forward
+ftrC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,83350,83621,272,reverse
+ftrC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,90334,90605,272,forward
+ftsH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,78429,79334,906,forward
+ftsH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,94621,95526,906,reverse
+groEL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,65943,67478,1536,reverse
+groEL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106477,108012,1536,forward
+ilvB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,24031,25751,1721,forward
+ilvB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,148204,149924,1721,reverse
+ilvB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,1081,2811,1731,forward
+ilvG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,24058,25587,1530,forward
+ilvG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,148368,149897,1530,reverse
+ilvG gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,1102,2649,1548,forward
+ilvH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,34011,34517,507,reverse
+ilvH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,139438,139944,507,forward
+ilvH gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11190,11696,507,reverse
+ilvN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,34008,34517,510,reverse
+ilvN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,139438,139947,510,forward
+ilvN gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11187,11696,510,reverse
+infB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,18988,19029,42,forward
+LSU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19525,19629,105,forward
+LSU | rrn7 | rrn7S 1 | rrn7S 2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5648,5728,81,forward
+matK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,31415,31489,75,reverse
+matK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142466,142540,75,forward
+matK gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,7967,9053,1087,forward
+ndhD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,181,248,68,forward
+ndhF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,192,251,60,reverse
+ndhJ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,38952,39377,426,reverse
+ndhJ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,134578,135003,426,forward
+ndhJ gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,16131,16556,426,reverse
+ndhK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,27709,27834,126,reverse
+ndhK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,146121,146246,126,forward
+ndhK gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,4888,5013,126,reverse
+ompR gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,2478,3512,1035,reverse
+orf1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20460,20628,169,forward
+orf19 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16187,16417,231,reverse
+orf19 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3806,4042,237,reverse
+orf63 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,3028,3070,43,reverse
+ORF65a gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64253,64319,67,reverse
+ORF65a gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109636,109702,67,forward
+orf66 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67602,67693,92,reverse
+orf66 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106262,106353,92,forward
+orf74 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,7755,7889,135,forward
+orf75 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16632,16859,228,reverse
+orf75 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4252,4479,228,reverse
+orf80 | orf79 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,18015,18239,225,forward
+orf107 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20549,20686,138,reverse
+orf144 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19275,19636,362,reverse
+orf144 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6859,7220,362,reverse
+orf249 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,78428,78619,192,reverse
+orf249 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,95336,95527,192,forward
+orf252 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20158,20249,92,forward
+pafI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,45195,45704,510,reverse
+pafI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,128251,128760,510,forward
+pafI gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,22375,22884,510,reverse
+pafII gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,85146,85682,537,reverse
+pafII gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,88273,88809,537,forward
+pbf1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,77245,77379,135,reverse
+pbf1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96576,96710,135,forward
+pbsC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,12139,12801,663,reverse
+pbsC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,2212,2868,657,forward
+pbsC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1221,2554,1334,reverse
+pcb gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,75473,76987,1515,forward
+pcb gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96968,98482,1515,reverse
+pcbC | pcb gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,1559,2896,1338,forward
+pcbC | pcb gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1108,2445,1338,reverse
+pcbC | pcb-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,12117,13454,1338,reverse
+pebT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,77127,77210,84,forward
+pebT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96745,96828,84,reverse
+petA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,34584,35464,881,reverse
+petA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,138491,139371,881,forward
+petA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11763,12643,881,reverse
+petB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,81843,82490,648,reverse
+petB | rps19 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,91465,92112,648,forward
+petD2 | petD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,81307,81789,483,reverse
+petD2 | petD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92166,92648,483,forward
+petF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,86673,86963,291,forward
+petF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,86992,87282,291,reverse
+petF gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,20107,20353,247,reverse
+petG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,31251,31364,114,reverse
+petG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142591,142704,114,forward
+petG gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,8430,8543,114,reverse
+petJ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8502,8702,201,reverse
+petL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,85782,85877,96,reverse
+petL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,88078,88173,96,forward
+petM gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,22002,22100,99,forward
+petM gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,1310,1408,99,forward
+petN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,21841,21933,93,forward
+petN gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,1149,1241,93,forward
+psaA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,26078,28345,2268,forward
+psaA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,145610,147877,2268,reverse
+psaA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,3257,5524,2268,forward
+psaA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,59,188,130,forward
+psaA2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,26129,28345,2217,forward
+psaA2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,145610,147826,2217,reverse
+psaA2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,3308,5524,2217,forward
+psaB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,28475,30679,2205,forward
+psaB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,143276,145480,2205,reverse
+psaB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,5654,7858,2205,forward
+psaC | psaC' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,3788,4033,246,reverse
+psaD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,23195,23614,420,forward
+psaD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,390,797,408,forward
+psaD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,2503,2922,420,forward
+psaE gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,77720,77887,168,reverse
+psaE gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96068,96235,168,forward
+psaF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80125,80645,521,reverse
+psaF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,93310,93830,521,forward
+psaF gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,20541,20668,128,reverse
+psaJ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,79960,80084,125,reverse
+psaJ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,93871,93995,125,forward
+psal | psaI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,83852,83962,111,forward
+psal | psaI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,89993,90103,111,reverse
+psb30 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,75142,75240,99,forward
+psb30 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98715,98813,99,reverse
+psbA 1 | psbA 2 | psbA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1,384,384,forward
+psbA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,10384,11442,1059,forward
+psbA' gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1,388,388,forward
+psbA'-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,4405,4620,216,reverse
+psbA-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,4392,4618,227,reverse
+psbA1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1,406,406,forward
+psbA1-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,4384,4620,237,reverse
+psbA2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1,383,383,forward
+psbA2-fragment | psbA 1-fragment | psbA 2-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,4407,4619,213,reverse
+psbB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,75473,76994,1522,forward
+psbB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96961,98482,1522,reverse
+psbC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,12117,13538,1422,reverse
+psbC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,1108,2529,1422,reverse
+psbD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,466,1527,1062,forward
+psbD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,2479,3535,1057,reverse
+psbD | psbD1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,13486,14544,1059,reverse
+psbD' | ompR | psnD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,505,1527,1023,forward
+psbD' | psnD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,2477,3499,1023,reverse
+psbD1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,499,1527,1029,forward
+psbD1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,2477,3535,1059,reverse
+psbE gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84530,84775,246,reverse
+psbE gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,89180,89425,246,forward
+psbF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84336,84467,132,reverse
+psbF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,89488,89619,132,forward
+psbH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,77432,77635,204,forward
+psbH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96320,96523,204,reverse
+psbI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,82681,82788,108,reverse
+psbI gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,91167,91274,108,forward
+psbJ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84036,84158,123,reverse
+psbJ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,89797,89919,123,forward
+psbJ | matK gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,8594,8668,75,reverse
+psbJ' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84036,84140,105,reverse
+psbJ' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,89815,89919,105,forward
+psbK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,31415,31549,135,reverse
+psbK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142406,142540,135,forward
+psbK gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,8594,8728,135,reverse
+psbL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84198,84314,117,reverse
+psbL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,89641,89757,117,forward
+psbT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,77127,77222,96,forward
+psbT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96733,96828,96,reverse
+psbV 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64685,65041,357,forward
+psbV 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,108914,109270,357,reverse
+psbV gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64622,65041,420,forward
+psbV gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,108914,109333,420,reverse
+psbW gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67877,68170,294,forward
+psbW gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,105785,106078,294,reverse
+psbX gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,83133,83258,126,reverse
+psbX gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,90697,90822,126,forward
+psbY gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,2472,2564,93,forward
+psbZ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,75539,75772,234,forward
+psbZ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98183,98416,234,reverse
+psi gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,75481,76980,1500,forward
+psi gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,96975,98474,1500,reverse
+psi psbT | bspB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,75478,76335,858,forward
+psi psbT-fragment | bspB-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,97656,98477,822,reverse
+pvis r7 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6742,6922,181,reverse
+pvis r7 | rrna23S gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20313,20686,374,reverse
+pvis r8 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17399,17517,119,reverse
+pvis r8 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5019,5137,119,reverse
+qrn23 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18307,18393,87,forward
+rbcL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,38841,40307,1467,reverse
+rbcL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,133648,135114,1467,forward
+rbcL gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,16020,17486,1467,reverse
+rbcL2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,38901,40286,1386,reverse
+rbcL2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,133669,135054,1386,forward
+rbcL2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,16080,17465,1386,reverse
+rbcS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,38304,38726,423,reverse
+rbcS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,135229,135651,423,forward
+rbcS gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,15483,15905,423,reverse
+"ribulose-1, 5-bisphosphate carboxylase/oxygenase large subunit gene",GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,38979,39995,1017,reverse
+"ribulose-1, 5-bisphosphate carboxylase/oxygenase large subunit gene",GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,133960,134976,1017,forward
+"ribulose-1, 5-bisphosphate carboxylase/oxygenase large subunit gene",GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,16158,17174,1017,reverse
+rlB-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19116,19414,299,forward
+rnl 1 | rnl 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20313,20538,226,forward
+rnl 1 | rnl 2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5981,6137,157,forward
+rnl gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18227,19093,867,forward
+rnl gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5811,6677,867,forward
+rnl' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18560,18811,252,forward
+rnl' gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6400,6676,277,forward
+rnl-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19115,19761,647,forward
+rnl-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19770,20397,628,forward
+rnl-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6699,7345,647,forward
+rnl1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5636,5728,93,forward
+rnl2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5632,5729,98,forward
+rnl2 | rnl1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18047,18146,100,forward
+rns 2 | rns 1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16379,16961,583,forward
+rns 2 | rns 1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3999,4581,583,forward
+rns gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16184,16966,783,forward
+rns gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3804,4586,783,forward
+rns' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16605,16963,359,forward
+rns' gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4225,4583,359,forward
+rns-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17255,17558,304,forward
+rns-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16971,17248,278,forward
+rns1 | rns2 | rns'-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17258,17542,285,forward
+rns1 | rns2 | rns'-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4878,5162,285,forward
+rns1-fragment | rns2-fragment | rns'-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16406,16555,150,forward
+rns1-fragment | rns2-fragment | rns'-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4026,4175,150,forward
+ropB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,48798,48932,135,forward
+ropB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,125023,125157,135,reverse
+ropB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,25978,26112,135,forward
+ropC1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,51499,52218,720,forward
+ropC1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,121737,122456,720,reverse
+rpl 5 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,11183,11437,255,forward
+rpl1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,72245,72934,690,forward
+rpl1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,101021,101710,690,reverse
+rpl2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,81422,81623,202,reverse
+rpl2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92332,92533,202,forward
+rpl2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18526,18600,75,forward
+rpl2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,7059,7880,822,forward
+rpl3 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,5456,6068,613,forward
+rpl4 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,6145,6634,490,forward
+rpl5 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,11006,11542,537,forward
+rpl6 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,12032,12568,537,forward
+rpl7/12 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,73060,73440,381,forward
+rpl7/12 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,100515,100895,381,reverse
+rpl7/rpl12 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,73172,73440,269,forward
+rpl7/rpl12 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,100515,100783,269,reverse
+rpl11 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,71810,72235,426,forward
+rpl11 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,101720,102145,426,reverse
+rpl12 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,73051,73440,390,forward
+rpl12 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,100515,100904,390,reverse
+rpl12 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,17936,18193,258,forward
+rpl13 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,16697,17092,396,forward
+rpl15 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,11237,11479,243,forward
+rpl16 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,9389,9792,404,forward
+rpl18 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,12625,12987,363,forward
+rpl19 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,43071,43347,277,forward
+rpl19 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,130608,130884,277,reverse
+rpl19 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,20250,20526,277,forward
+rpl19-atpA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,60375,61611,1237,forward
+rpl19-atpA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,112344,113580,1237,reverse
+rpl20 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,31825,32181,357,reverse
+rpl20 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,141774,142130,357,forward
+rpl20 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,9004,9360,357,reverse
+rpl21 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,1347,1631,285,reverse
+rpl22 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,8213,8545,333,forward
+rpl23 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20549,20711,163,reverse
+rpl23 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,6720,7001,282,forward
+rpl24 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,10808,10951,144,forward
+rpl27 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,1085,1315,231,reverse
+rpl27' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,1121,1315,195,reverse
+rpl29 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,9804,10013,210,forward
+rpl31 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,17610,17826,217,forward
+rpl33 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,46074,46268,195,reverse
+rpl33 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,127687,127881,195,forward
+rpl33 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,23254,23448,195,reverse
+rpl34 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,6830,6964,135,forward
+rpl34' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,6872,6973,102,forward
+rpl35 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,32212,32403,192,reverse
+rpl35 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,141552,141743,192,forward
+rpl35 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,9391,9582,192,reverse
+rplB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,7095,7844,750,forward
+rplE gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,11183,11539,357,forward
+rplF gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,12029,12142,114,forward
+rplL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,73072,73228,157,forward
+rplL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,100727,100883,157,reverse
+rplN | rpl14 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,10275,10640,366,forward
+rplT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,31972,32181,210,reverse
+rplT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,141774,141983,210,forward
+rplT gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,9151,9360,210,reverse
+rpmJ | rpl36 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,14939,15052,114,forward
+rpo gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,50904,52343,1440,forward
+rpo gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,121612,123051,1440,reverse
+rpoA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,15870,16598,729,forward
+rpoB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,47017,50421,3405,forward
+rpoB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,123534,126938,3405,reverse
+rpoB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,24197,27601,3405,forward
+rpoB-1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,47440,48996,1557,forward
+rpoB-1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,124959,126515,1557,reverse
+rpoB-1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,24620,26176,1557,forward
+rpoB-2 | rpoBb gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,49123,50271,1149,forward
+rpoB-2 | rpoBb gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,123684,124832,1149,reverse
+rpoB-2 | rpoBb gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,26303,27451,1149,forward
+rpoB.2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,49147,50271,1125,forward
+rpoB.2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,123684,124808,1125,reverse
+rpoB.2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,26822,27476,655,forward
+rpoBa gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,47449,48933,1485,forward
+rpoBa gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,125022,126506,1485,reverse
+rpoBa gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,24629,26113,1485,forward
+rpoC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,50800,56215,5416,forward
+rpoC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,117740,123155,5416,reverse
+rpoC1 CDS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,50802,52214,1413,forward
+rpoC1 CDS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,121741,123153,1413,reverse
+rpoC1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,50707,52570,1864,forward
+rpoC1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,121385,123248,1864,reverse
+rpoC1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,24602,27436,2835,forward
+rpoC1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,17542,17590,49,forward
+rpoC1b gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,51763,52215,453,forward
+rpoC1b gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,121740,122192,453,reverse
+rpoC2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,52811,56272,3462,forward
+rpoC2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,117683,121144,3462,reverse
+rpoC2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,818,1075,258,reverse
+rpoC2a gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,53174,53833,660,forward
+rpoC2a gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,120122,120781,660,reverse
+rpoC2b gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,54957,55025,69,forward
+rpoC2b gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,118930,118998,69,reverse
+rps gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,56863,57000,138,forward
+rps gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,116955,117092,138,reverse
+rps2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,56352,57040,689,forward
+rps2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,116915,117603,689,reverse
+rps2a gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,56549,56795,247,forward
+rps2a gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,117160,117406,247,reverse
+rps3 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,8592,9348,757,forward
+rps4 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,40514,41200,687,reverse
+rps4 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132755,133441,687,forward
+rps4 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,17693,18379,687,reverse
+rps4b gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,40793,40873,81,reverse
+rps4b gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,133082,133162,81,forward
+rps4b gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,17915,18052,138,reverse
+rps5 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,13146,13655,510,forward
+rps7 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,18325,18792,468,forward
+rps8 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,11618,12013,396,forward
+rps9 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,17216,17590,375,forward
+rps10 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,20165,20461,297,forward
+rps11 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,15449,15826,378,forward
+rps12 3' end gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,18018,18248,231,forward
+rps12 3end gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,17897,18248,352,forward
+rps12 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,17895,18276,382,forward
+rps12B | rpsL gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,17895,18248,354,forward
+rps13 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,15073,15438,366,forward
+rps14 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,30769,31071,303,forward
+rps14 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142884,143186,303,reverse
+rps14 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,7948,8250,303,forward
+rps15 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,7922,8170,249,forward
+rps16 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,65669,65887,219,forward
+rps16 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,108068,108286,219,reverse
+rps16 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,9476,9775,300,forward
+rps16 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3801,3880,80,forward
+rps17 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,10021,10262,242,forward
+rps18 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,45717,46055,339,reverse
+rps18 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,127900,128238,339,forward
+rps18 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,22897,23235,339,reverse
+rps19 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,7916,8194,279,forward
+rps20 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,46524,46811,288,forward
+rps20 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,127144,127431,288,reverse
+rps20 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,23704,23991,288,forward
+rpsB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,56548,56676,129,forward
+rpsB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,117279,117407,129,reverse
+rpsC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,9102,9347,246,forward
+rpsD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,40763,41035,273,reverse
+rpsD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132920,133192,273,forward
+rpsD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,17659,18214,556,reverse
+rpsE gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,13170,13580,411,forward
+rpsG gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,18484,18777,294,forward
+rpsH gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,11618,11860,243,forward
+rpsK gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,15461,15826,366,forward
+rpsN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,30770,31071,302,forward
+rpsN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142884,143185,302,reverse
+rpsN gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,7949,8250,302,forward
+rpsS gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,8006,8194,189,forward
+rrl 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18046,18146,101,forward
+rrl' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18048,18089,42,forward
+rrl-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20127,20537,411,forward
+rrlA | rrl gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18555,19093,539,forward
+rrlA | rrl gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6139,6677,539,forward
+rrlA-A | rrlA-B gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18308,18395,88,forward
+rrlA-A | rrlA-B gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5892,5979,88,forward
+rrlA-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19646,19990,345,forward
+rrlB | rlB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18562,19093,532,forward
+rrlB | rlB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6146,6677,532,forward
+rrlB-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20121,20538,418,forward
+rrn4.5 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20438,20538,101,forward
+rrn4.5 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6751,6922,172,reverse
+rrn5 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19770,20538,769,forward
+rrn5 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5609,5729,121,forward
+rrn7 | rrn7S 1 | rrn7S 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18066,18146,81,forward
+rrn16 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17588,17647,60,forward
+rrn16 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5208,5267,60,forward
+rrn16S 1 | rrn16S 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16409,16592,184,forward
+rrn16S 1 | rrn16S 2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4026,4212,187,forward
+rrn16S 1-fragment | rrn16S 2-fragment | 16s-fragment | 16rrn gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16974,17123,150,forward
+rrn16S gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16384,16668,285,forward
+rrn16S gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4004,4288,285,forward
+rrn16S-fragment | rrna16S gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17399,17555,157,reverse
+rrn16S-fragment | rrna16S gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5019,5175,157,reverse
+rrn23 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19770,20538,769,reverse
+rrn23-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,7168,7213,46,reverse
+rrn23S 1 | rrn23S 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18596,18762,167,forward
+rrn23S gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,19902,20538,637,reverse
+rrn23s; rrn23 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18302,18395,94,forward
+rrn26S gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18794,18862,69,forward
+rrn26S gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6378,6446,69,forward
+rrn28 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20436,20515,80,forward
+rRNA PlaLSU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18308,18425,118,forward
+rRNA PlaLSU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5892,6009,118,forward
+rRNA PlaSSU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16187,16243,57,forward
+rRNA PlaSSU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4027,4223,197,forward
+rRNA23 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,18307,18395,89,forward
+rRNA23 | rrn23S rRNA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5891,5979,89,forward
+rrna23S | rrn23 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,7251,7329,79,reverse
+rrnC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17586,17639,54,forward
+rrnC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5206,5259,54,forward
+rrnL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,20313,20688,376,forward
+rrnL gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6192,6389,198,forward
+rrnL2 | rrn23S 1 | rrn23S 2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,6180,6346,167,forward
+rrnS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16379,16711,333,forward
+rrnS gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3999,4331,333,forward
+rrnS2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17166,17345,180,forward
+rrnS2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4251,4331,81,forward
+rrs 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16371,16605,235,forward
+rrs 2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4879,5163,285,forward
+rrs 2-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3991,4225,235,forward
+rrs 2-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4593,4744,152,forward
+rrs gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16384,16953,570,forward
+rrs1 | rrs3 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16384,16603,220,forward
+rrs1 | rrs3 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4004,4223,220,forward
+rrsA | rrsB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16379,16960,582,forward
+rrsA | rrsB gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,3999,4580,582,forward
+rrsA-fragment | rrsB-fragment | rns'-fragment | rns1-fragment | rns2-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16973,17122,150,forward
+rrsA-fragment | rrsB-fragment | rns'-fragment | rns1-fragment | rns2-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4593,4742,150,forward
+rs14 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,30859,31071,213,forward
+rs14 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142884,143096,213,reverse
+rs14 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,8038,8250,213,forward
+secA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,4190,6802,2613,forward
+secA' gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,4343,6139,1797,forward
+secY gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,13768,14886,1119,forward
+ssu gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,16446,16596,151,forward
+SSU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4451,4516,66,forward
+sufB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,62658,64115,1458,reverse
+sufB gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109840,111297,1458,forward
+sufC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,61873,62610,738,reverse
+sufC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,111345,112082,738,forward
+thiS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,41344,41422,79,reverse
+thiS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132533,132611,79,forward
+thiS gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18523,18601,79,reverse
+tRNA formyl methionine CAU | tRNA-Met(cat) | trnMf-CAU | trnfM-CAU | trnfM | tRNA-Met gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,219,286,68,forward
+tRNA-Ala gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17756,17828,73,reverse
+tRNA-Ala gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5376,5448,73,reverse
+tRNA-Arg gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,9002,9061,60,forward
+tRNA-Arg(tct) | trnR-4 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8996,9062,67,forward
+tRNA-Asn gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,181,237,57,reverse
+tRNA-Asn(gtt) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,181,227,47,forward
+tRNA-Asp gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80868,80932,65,forward
+tRNA-Asp gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,93023,93087,65,reverse
+tRNA-Cys(gca) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33800,33861,62,forward
+tRNA-Cys(gca) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,140094,140155,62,reverse
+tRNA-Cys(gca) gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,10979,11040,62,forward
+trnA-GCA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17757,17828,72,forward
+trnA-GCA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5377,5448,72,forward
+trnA-GUU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,181,237,57,forward
+tRNA-His gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,41348,41411,64,reverse
+tRNA-His gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132544,132607,64,forward
+tRNA-His gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18527,18590,64,reverse
+tRNA-Leu gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33930,34000,71,forward
+tRNA-Leu gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,139955,140025,71,reverse
+tRNA-Leu gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11109,11179,71,forward
+tRNA-Leu(caa) | trnL 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64259,64324,66,forward
+tRNA-Leu(caa) | trnL 2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109631,109696,66,reverse
+tRNA-Leu(taa) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33924,33998,75,forward
+tRNA-Leu(taa) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,139957,140031,75,reverse
+tRNA-Leu(taa) gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11103,11177,75,forward
+tRNA-Lys gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74934,74992,59,reverse
+tRNA-Lys gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98963,99021,59,forward
+tRNA-Lys(ttt) | trnK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74933,74993,61,reverse
+tRNA-Lys(ttt) | trnK gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98962,99022,61,forward
+tRNA-Met(cat) | trnM 2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,2187,2254,68,forward
+tRNA-Met(cat) | trnM 2 | trnM-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,22879,22946,68,forward
+tRNA-Met(cat)-fragment | trnM 1 | tRNA-Met | trnI-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,81142,81200,59,reverse
+tRNA-Met(cat)-fragment | trnM 1 | tRNA-Met | trnI-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92755,92813,59,forward
+tRNA-Phe gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,71482,71545,64,forward
+tRNA-Phe gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102410,102473,64,reverse
+tRNA-Pro(tgg) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74120,74194,75,forward
+tRNA-Pro(tgg) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,99761,99835,75,reverse
+tRNA-Ser (GCU) | trnS-AGC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80968,81018,51,forward
+tRNA-Ser (GCU) | trnS-AGC | trnS gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92937,92987,51,reverse
+tRNA-Ser(gct) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,81004,81048,45,reverse
+tRNA-Ser(gct) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92907,92951,45,forward
+tRNA-Tyr(gta) gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,3019,3063,45,reverse
+trnA-UGC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17756,17828,73,forward
+trnA-UGC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5376,5448,73,forward
+trnA-UGC | tRNA-Ala(tgc) | trnA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17755,17829,75,forward
+trnA-UGC | tRNA-Ala(tgc) | trnA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5375,5449,75,forward
+trnA-UUU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74962,74992,31,reverse
+trnA-UUU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98963,98993,31,forward
+tRNA-Val(tac) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8877,8943,67,forward
+trnAsn | trnN-AAC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,181,218,38,forward
+trnC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33800,33863,64,forward
+trnC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,140092,140155,64,reverse
+trnC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,10979,11042,64,forward
+trnC-GCA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33796,33868,73,forward
+trnC-GCA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,140087,140159,73,reverse
+trnC-GCA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33800,33868,69,forward
+trnC-GCA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,140087,140155,69,reverse
+trnC-GCA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,10975,11047,73,forward
+trnC-GCA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,10979,11047,69,forward
+trnD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,48763,50262,1500,forward
+trnD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,123693,125192,1500,reverse
+trnD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80859,80932,74,forward
+trnD gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,93023,93096,74,reverse
+trnD gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,25943,27442,1500,forward
+trnD-GUC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80859,80932,74,reverse
+trnD-GUC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,93023,93096,74,forward
+trnE-UUC | tRNA-Glu(ttc) | trnE | trnE- TT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74268,74340,73,reverse
+trnE-UUC | tRNA-Glu(ttc) | trnE | trnE- TT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,99615,99687,73,forward
+trnF | trnM-CAU | trnM 1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,218,286,69,forward
+trnF-GAA | tRNA-Phe(gaa) | trnF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,71479,71551,73,forward
+trnF-GAA | tRNA-Phe(gaa) | trnF gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102404,102476,73,reverse
+trnF-UUC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,71488,71551,64,forward
+trnF-UUC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102404,102467,64,reverse
+trnfM-(CA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,219,276,58,forward
+trnG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,85001,85055,55,forward
+trnG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,88900,88954,55,reverse
+trnG-UCC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84990,85062,73,reverse
+trnG-UCC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,88893,88965,73,forward
+trnG-UCC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84991,85061,71,reverse
+trnG-UCC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,88894,88964,71,forward
+trnG-UCC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,84992,85061,70,reverse
+trnG-UCC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,88894,88963,70,forward
+trnG-UCC | qrn23 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5891,5977,87,forward
+trnH-GUG | tRNA-His(gtg) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,41347,41421,75,reverse
+trnH-GUG | tRNA-His(gtg) gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132534,132608,75,forward
+trnH-GUG | tRNA-His(gtg) gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18526,18600,75,reverse
+trnH-GUG | trnH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,41348,41420,73,reverse
+trnH-GUG | trnH gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132535,132607,73,forward
+trnH-GUG | trnH gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18527,18599,73,reverse
+trnI-GAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,17678,17751,74,forward
+trnI-GAU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5298,5371,74,forward
+trnI-GAU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5298,5359,62,reverse
+trnK-AAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74937,74992,56,forward
+trnK-AAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98963,99018,56,reverse
+trnK-UUU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74927,74998,72,reverse
+trnK-UUU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98957,99028,72,forward
+trnK-UUU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74933,74998,66,reverse
+trnK-UUU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98957,99022,66,forward
+trnL 3 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33924,33968,45,forward
+trnL 3 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,139987,140031,45,reverse
+trnL 3 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11103,11147,45,forward
+trnL- TA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33929,33964,36,forward
+trnL- TA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,139991,140026,36,reverse
+trnL- TA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11108,11143,36,forward
+trnL-B gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64260,64297,38,forward
+trnL-B gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109658,109695,38,reverse
+trnL-CAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64252,64335,84,forward
+trnL-CAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109620,109703,84,reverse
+trnL-CAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64253,64334,82,forward
+trnL-CAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109621,109702,82,reverse
+trnL-CAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,43462,43536,75,reverse
+trnL-CAA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,130419,130493,75,forward
+trnL-CAA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,20641,20715,75,reverse
+trnL-CAG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,192,237,46,forward
+trnL-UAA | trnL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,33924,34007,84,forward
+trnL-UAA | trnL gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,139948,140031,84,reverse
+trnL-UAA | trnL gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,11103,11186,84,forward
+trnL-UAG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,2282,2363,82,reverse
+trnL-UAG | rrn16S 1-fragment | rrn16S 2-fragment | 16SrRNA | trnR-UCU | 16rrn gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,4594,4743,150,forward
+trnM 2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,218,279,62,forward
+trnM-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,43368,43456,89,reverse
+trnM-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,130499,130587,89,forward
+trnM-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,43369,43455,87,reverse
+trnM-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,130500,130586,87,forward
+trnM-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,22872,22947,76,forward
+trnM-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,22873,22946,74,forward
+trnM-CAU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,20547,20635,89,reverse
+trnM-CAU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,20548,20634,87,reverse
+trnM-CAU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,2180,2255,76,forward
+trnM-CAU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,2181,2254,74,forward
+trnM-CAU | trnI-GAU | trnM gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,81127,81200,74,reverse
+trnM-CAU | trnI-GAU | trnM gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92755,92828,74,forward
+trnM-CAU | trnM gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,213,286,74,forward
+trnM-CAU-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,81125,81200,76,reverse
+trnM-CAU-fragment gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92755,92830,76,forward
+trnMf-CAU | tRNA formyl methionine CAU | trnfM-CAU | trnM-CAU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,22876,22946,71,forward
+trnMf-CAU | tRNA formyl methionine CAU | trnfM-CAU | trnM-CAU | trnM gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,2184,2254,71,forward
+trnN-GUU | trnN gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,181,252,72,forward
+trnP gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74130,74194,65,forward
+trnP gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,99761,99825,65,reverse
+trnP-UGG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74120,74193,74,forward
+trnP-UGG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,99762,99835,74,reverse
+trnP-UGG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74121,74193,73,forward
+trnP-UGG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,99762,99834,73,reverse
+trnP-UGG gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,4847,4890,44,forward
+trnP-UGG | rrn23-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,7109,7167,59,reverse
+trnQ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67731,67765,35,forward
+trnQ gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106190,106224,35,reverse
+trnQ-UUG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67722,67793,72,forward
+trnQ-UUG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106162,106233,72,reverse
+trnQ-UUG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67731,67776,46,forward
+trnQ-UUG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106179,106224,46,reverse
+trnR 3 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8998,9062,65,forward
+trnR 4 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8996,9065,70,forward
+trnR | trnA-ACG | trnR-ACG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67641,67694,54,forward
+trnR | trnA-ACG | trnR-ACG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106261,106314,54,reverse
+trnR-ACG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67621,67695,75,forward
+trnR-ACG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106260,106334,75,reverse
+trnR-ACG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,67622,67694,73,forward
+trnR-ACG gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,106261,106333,73,reverse
+trnR-UCU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8996,9068,73,forward
+trnR-UCU-fragment gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc2470,5024,5175,152,forward
+trnR1 | trnR2 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8996,9051,56,forward
+trnS-GCU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80961,81048,88,reverse
+trnS-GCU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92907,92994,88,forward
+trnS-GCU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80962,81018,57,forward
+trnS-GCU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,864,907,44,forward
+trnS-GGA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,80962,80996,35,forward
+trnS-GGA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,92959,92993,35,reverse
+trnS-UGA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,23792,23876,85,forward
+trnS-UGA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,23792,23837,46,forward
+trnS-UGA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,857,941,85,forward
+trnS-UGA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,3099,3183,85,forward
+trnS-UGA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,3099,3144,46,forward
+trnS-UGA | trnS gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,857,906,50,forward
+trnT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64259,64297,39,forward
+trnT gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109658,109696,39,reverse
+trnT-UGU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,31659,31731,73,reverse
+trnT-UGU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142224,142296,73,forward
+trnT-UGU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,31665,31726,62,reverse
+trnT-UGU gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,142229,142290,62,forward
+trnT-UGU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,8838,8910,73,reverse
+trnT-UGU gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,8844,8905,62,reverse
+trnV-UAC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8872,8944,73,forward
+trnV-UAC | trnV gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,8872,8943,72,forward
+trnW-(CC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,71582,71648,67,forward
+trnW-(CC gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102307,102373,67,reverse
+trnW-CCA | tRNA-Trp | trnW- CC | tRNA-Trp(cca) | trnW gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,71576,71648,73,forward
+trnW-CCA | tRNA-Trp | trnW- CC | tRNA-Trp(cca) | trnW gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,102307,102379,73,reverse
+trnY gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,2994,3065,72,reverse
+trnY-GUA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,25813,25896,84,reverse
+trnY-GUA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,148059,148142,84,forward
+trnY-GUA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,25855,25896,42,forward
+trnY-GUA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,148059,148100,42,reverse
+trnY-GUA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,2982,3066,85,reverse
+trnY-GUA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,2983,3065,83,reverse
+trnY-UAC gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,3017,3066,50,reverse
+trpA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,74928,75003,76,reverse
+trpA gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,98952,99027,76,forward
+tuf gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,18934,20155,1222,forward
+tufA gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,18934,20160,1227,forward
+ycf1 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc7264,1494,1538,45,forward
+ycf1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,13457,13498,42,forward
+ycf1 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,5702,13105,7404,forward
+ycf2 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,22196,23590,1395,reverse
+ycf3] gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,45421,45686,266,reverse
+ycf3] gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,128269,128534,266,forward
+ycf3] gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,22601,22866,266,reverse
+ycf5 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,3010,3720,711,forward
+ycf16 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,62048,62604,557,reverse
+ycf16 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,111351,111907,557,forward
+ycf19 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,65239,65520,282,forward
+ycf19 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,108435,108716,282,reverse
+ycf20 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,7445,7480,36,forward
+ycf24 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,62658,64069,1412,reverse
+ycf24 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109886,111297,1412,forward
+ycf29 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,41344,41378,35,forward
+ycf29 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132577,132611,35,reverse
+ycf29 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18523,18557,35,forward
+ycf36 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,22664,22793,130,forward
+ycf36 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc1609,1972,2101,130,forward
+ycf39 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,64253,64336,84,forward
+ycf39 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,109619,109702,84,reverse
+ycf40 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,41378,41420,43,forward
+ycf40 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,132535,132577,43,reverse
+ycf40 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,18557,18599,43,forward
+ycf44 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,7136,7747,612,forward
+ycf46 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,78531,78623,93,forward
+ycf46 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,95332,95424,93,reverse
+ycf59 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,32639,33571,933,reverse
+ycf59 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,140384,141316,933,forward
+ycf59 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,9818,10750,933,reverse
+ycf62 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,1503,2637,1135,reverse
+ycf62 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc0836,19774,19851,78,forward
+ycf62 gene,GroupDREPX1042_Bin_ZLUT_85_5_14-contigsc5149,166,213,48,reverse
+ycf66 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,82842,83129,288,reverse
+ycf66 gene,GroupDREPX1042_Bin_MEDD_45_2_3-contigsc0202,90826,91113,288,forward
